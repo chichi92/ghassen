@@ -66,7 +66,8 @@ public class User implements Serializable {
 
 	public void setName(String name) {
 		this.name = name;
-	}   
+	}  
+	//pppp
 	public String getE_mail() {
 		return this.e_mail;
 	}
